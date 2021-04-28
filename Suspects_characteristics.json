@@ -1,0 +1,37 @@
+{
+    "Eva":
+        {
+            "Gender": "Female",
+            "Race": "White",
+            "Hair_color": "Blonde",
+            "Eye_color": "Blue",
+            "Face_shape": "Oval"
+        },
+
+    "Larisa":
+        {
+            "Gender": "Female",
+            "Race": "White",
+            "Hair_color": "Brown",
+            "Eye_color": "Brown",
+            "Face_shape": "Oval"
+        },
+
+    "Matej":
+        {
+            "Gender": "Male",
+            "Race": "White",
+            "Hair_color": "Black",
+            "Eye_color": "Blue",
+            "Face_shape": "Oval"
+        },
+
+    "Miha":
+        {
+            "Gender": "Male",
+            "Race": "White",
+            "Hair_color": "Brown",
+            "Eye_color": "Green",
+            "Face_shape": "Square"
+        }
+}
